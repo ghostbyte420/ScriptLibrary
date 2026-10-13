@@ -1,2 +1,2 @@
 # ScriptLibrary
-A Script Library for RunUO-based Projects: Developed by Me and Downloaded
+`A Script Library for uoAvox-based Projects  |  Scripts Developed By: RunUO and ServUO Community Members`
