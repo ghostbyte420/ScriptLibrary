@@ -5,4 +5,4 @@
 
 | ⚪ | Project Name <br>| Type | Description | Developer | Server? |
 |:-:|:--|:--|:--|:--|:--|
-| </br> ⚫ | </br> DynamicWeather | </br> System | </br> Adds a new interactive weather profession, spells, and visuals to your server | </br> ghostbyte420 | </br> uoAvox |
+| </br> ⚫ | </br> DynamicWeather | </br> System | </br> Adds new interactive weather profession, spells, and visuals | </br> ghostbyte420 | </br> uoAvox |
