@@ -3,6 +3,6 @@
 
 ---
 
-| ⚪ | Project Name <br>| Type | Description | Developer | Server? |
-|:-:|:--|:--|:--|:--|:--|
-| </br> ⚫ | </br> DynamicWeather | </br> System | </br> Adds new interactive weather profession, spells, and visuals | </br> ghostbyte420 | </br> uoAvox |
+| ⚪ | Project Name <br>| Type | Description | Developer(s) | AI Model | Server? |
+|:-:|:--|:--|:--|:--|:--|:--
+| ⚫ | DynamicWeather | System | Adds new interactive weather profession, spells, and visuals | ghostbyte420 | Claude Sonnet 5.5 | uoAvox |
